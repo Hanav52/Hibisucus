@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <%- include('templates/header', {title : "방 번호 입력" }) %>
+</head>
+
+<body>
+  <h1 id="welcome"></h1>
+  <h1>참가하실 방의 번호를 입력해주세요!</h1>
+  <input type="text" id="roomID">
+  <input type="submit" id="joinButton" value="참여하기">
+  <br>
+  <label id="errorMessage" style="visibility: hidden;">해당 방이 없습니다! 번호를 다시 확인해주세요.</label>
+
+  <script>
+    // 문서 로딩 후 실행
+    $(() => {
+      search_room();
+    })
+  </script>
+  <%- include('templates/footer') %>
+</body>
+
+</html>
