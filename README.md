@@ -1,8 +1,9 @@
 # Project-Hibiscus
-프로젝트 Notion 주소 : https://solstice99.notion.site/Project_Hibiscus-2-2-TCP-IP-f8d9a4415a9b4dd1b2b22f64bcf888f1
+프로젝트 Notion 주소 : https://solstice99.notion.site/Project_Hibiscus-2-2-TCP-IP-f8d9a4415a9b4dd1b2b22f64bcf888f1 <br/>
+자세한 내용 : https://github.com/UniM0cha/Project-Hibiscus
 
   <h1>무궁화 꽃이 피었습니다</h1>
-  2021. 11. 9. ~ 2021. 12. 17.<br>
+  2021. 11 ~ 2021. 12<br>
 
 ## 팀원
 <div>
