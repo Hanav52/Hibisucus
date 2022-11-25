@@ -2,6 +2,9 @@
 프로젝트 Notion 주소 : https://solstice99.notion.site/Project_Hibiscus-2-2-TCP-IP-f8d9a4415a9b4dd1b2b22f64bcf888f1 <br/>
 자세한 내용 : https://github.com/UniM0cha/Project-Hibiscus
 
+## 설명
+오징어 게임에서 영감을 얻어 무궁화 꽃이 피었습니다 라는 게임을 <input>태그를 이용하여 무궁화 꽃이 피었습니다. 게임을 구현해보았습니다.
+
   <h1>무궁화 꽃이 피었습니다</h1>
   2021. 11 ~ 2021. 12<br>
 
